@@ -1,0 +1,96 @@
+<resources>
+    <!-- NavigationView -->
+    <string name="app_name">Andry Note</string>
+    <string name="notes">Notes</string>
+    <string name="calendar">Calendar</string>
+    <string name="trashcan">Trash Can</string>
+    <string name="search">Search</string>
+    <string name="theme">Theme</string>
+    <string name="setting">Setting</string>
+    <string name="connect">Sign with google</string>
+    <string name="user">Users name</string>
+    <string name="email">example@gmail.com</string>
+
+    <!-- Other -->
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <!-- OptionMenu -->
+    <string name="color">Color</string>
+    <string name="sort">Sort</string>
+    <string name="view">View</string>
+    <string name="optionmenu">optionmenu</string>
+    <string name="bubble">Create bubble icon</string>
+    <string name="add_task">Add Task</string>
+    <string name="today">Today</string>
+    <string name="list">List</string>
+    <string name="detail">Detail</string>
+    <string name="grid">Grid</string>
+    <string name="large_grid">Large Grid</string>
+
+    <!-- CalendarDay -->
+    <string name="wed">WED</string>
+    <string name="thu">THU</string>
+    <string name="fri">FRI</string>
+    <string name="sat">SAT</string>
+    <string name="sun">SUN</string>
+    <string name="tue">TUE</string>
+    <string name="mon">MON</string>
+    <string name="add">ADD+</string>
+    <string name="current_date">current date</string>
+
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+
+    <!-- NoteColor -->
+    <string name="red">red</string>
+    <string name="orange">orange</string>
+    <string name="yellow">yellow</string>
+    <string name="green">green</string>
+    <string name="blue">blue</string>
+    <string name="purple">purple</string>
+    <string name="black">black</string>
+    <string name="grey">grey</string>
+    <string name="white">white</string>
+    <string name="colormenu">colormenu</string>
+
+
+    <!-- Camera -->
+    <string name="btnchange">Change</string>
+    <string name="btnSave">Save</string>
+
+    <!-- Add -->
+    <string name="addnote">Note</string>
+    <string name="addrecord">Record</string>
+    <string name="addpaint">Paint</string>
+    <string name="addcamera">Camera</string>
+    <string name="select_add">Select Add</string>
+
+    <!-- Paint -->
+    <string name="brush">Brush</string>
+    <string name="undo">Undo</string>
+    <string name="redo">Redo</string>
+    <string name="erase">Eraser</string>
+    <string name="save">Save</string>
+    <string name="paint">Paint</string>
+
+    <!-- Brush -->
+    <string name="sml">Small</string>
+    <string name="med">Medium</string>
+    <string name="lrg">Large</string>
+
+    <!--Label-->
+    <string name="cameranote">Camera</string>
+    <string name="paintnote">Paint</string>
+    <string name="calnote">Note</string>
+    <string name="Editnote">Note</string>
+
+    <!--Theme-->
+    <string name="select_theme">Theme</string>
+    <string name="theme1">Default</string>
+    <string name="theme2">Light</string>
+    <string name="record_name">Record name</string>
+    <string name="record">Record</string>
+    <string name="time">00:00:000</string>
+
+</resources>
